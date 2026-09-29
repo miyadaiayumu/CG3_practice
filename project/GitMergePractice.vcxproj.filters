@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Test\TestFunction.h">
-      <Filter>ヘッダー ファイル</Filter>
+      <Filter>ヘッダー ファイル\Test</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
